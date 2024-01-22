@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 螞蟻a</title>
-    <link>https://blog.anthy.cc/categories/</link>
+    <link>https://anthy7154.github.io/anthy-blog/categories/</link>
     <description>Recent content in Categories on 螞蟻a</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hant-TW</language>
-    <atom:link href="https://blog.anthy.cc/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anthy7154.github.io/anthy-blog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

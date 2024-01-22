@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>螞蟻a</title>
-    <link>https://blog.anthy.cc/</link>
+    <link>https://anthy7154.github.io/anthy-blog/</link>
     <description>Recent content on 螞蟻a</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hant-TW</language>
-    <atom:link href="https://blog.anthy.cc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anthy7154.github.io/anthy-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>搜尋</title>
-      <link>https://blog.anthy.cc/search/</link>
+      <link>https://anthy7154.github.io/anthy-blog/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.anthy.cc/search/</guid>
+      <guid>https://anthy7154.github.io/anthy-blog/search/</guid>
       <description></description>
     </item>
     <item>
       <title>歸檔</title>
-      <link>https://blog.anthy.cc/archives/</link>
+      <link>https://anthy7154.github.io/anthy-blog/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.anthy.cc/archives/</guid>
+      <guid>https://anthy7154.github.io/anthy-blog/archives/</guid>
       <description></description>
     </item>
     <item>
       <title>關於我</title>
-      <link>https://blog.anthy.cc/about/</link>
+      <link>https://anthy7154.github.io/anthy-blog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.anthy.cc/about/</guid>
+      <guid>https://anthy7154.github.io/anthy-blog/about/</guid>
       <description>自我介紹 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived</description>
     </item>
   </channel>
